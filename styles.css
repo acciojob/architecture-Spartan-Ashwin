@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.imageContainer{
+
+	
+	<img alt="hi" src="https://www.w3schools.com/css/paris.jpg">
+}
+
+body{
+	font-size:1100px;
+}
